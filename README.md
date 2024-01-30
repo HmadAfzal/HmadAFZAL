@@ -3,17 +3,14 @@
 <h3 align="center">A Passionate Frontend developer from Pakistan</h3>
 <<<<<<< HEAD
 <img align="right" alt="Coding" width="400" src="sidegif.gif">
-- 🌱 I'm currently learning **Backend and Frameworks**
-=======
-<img align="right" alt="Coding" width="400" src="[https://gifer.com/embed/3rCC](https://gifer.com/en/3rCC)">
-- 🌱 I’m currently learning **Backend and Frameworks**
->>>>>>> 770c3514bd6bc02d26696e1cd6943644ccc47195
+
+- 👨‍💻 I’m currently learning **Backend and Frameworks**
 
 - 💬 Ask me about **Html, CSS, JS**
 
 - 📫 How to reach me **hmadafzal00@gmail.com**
 
-- ⚡ Fun fact **I can write HTML Boiler plate with my eyes closed😄**
+- ⚡ Fun fact: **I can write HTML Boiler plate with my eyes closed😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
