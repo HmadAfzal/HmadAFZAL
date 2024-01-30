@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hmad Afzal</h1>
 <h3 align="center">A Passionate Frontend developer from Pakistan</h3>
+(img align="right" alt="Coding" width="400" src="https://i.gifer.com/3rCC.gif")
+
 
 - 🌱 I’m currently learning **Backend and Frameworks**
 
