@@ -1,8 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Hmad Afzal</h1>
 <h3 align="center">A Passionate Frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3rCC.gif">
-
-
+<iframe src="https://gifer.com/embed/3rCC" width=480 height=475.200 frameBorder="0" allowFullScreen></iframe>
 - 🌱 I’m currently learning **Backend and Frameworks**
 
 - 💬 Ask me about **Html, CSS, JS**
@@ -26,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmadafzal&show_icons=true&locale=en" alt="hmadafzal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmadafzal&" alt="hmadafzal" /></p>
+
