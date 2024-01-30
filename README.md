@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.gif" alt="MasterCard Banner" width="400px">
+  <img src="banner.gif" alt="MasterCard Banner" width="700px">
 </div>
 
 <h1 align="center">Hi 👋, I'm Hmad Afzal</h1>
