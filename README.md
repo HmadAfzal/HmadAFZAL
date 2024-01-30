@@ -1,8 +1,13 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Hmad Afzal</h1>
 <h3 align="center">A Passionate Frontend developer from Pakistan</h3>
+<<<<<<< HEAD
 <img align="right" alt="Coding" width="400" src="sidegif.gif">
 - 🌱 I'm currently learning **Backend and Frameworks**
+=======
+<img align="right" alt="Coding" width="400" src="[https://gifer.com/embed/3rCC](https://gifer.com/en/3rCC)">
+- 🌱 I’m currently learning **Backend and Frameworks**
+>>>>>>> 770c3514bd6bc02d26696e1cd6943644ccc47195
 
 - 💬 Ask me about **Html, CSS, JS**
 
