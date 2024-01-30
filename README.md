@@ -1,4 +1,7 @@
-![MasterCard Banner](banner.gif){: width="400px" }
+<div align="center">
+  <img src="banner.gif" alt="MasterCard Banner" width="400px">
+</div>
+
 <h1 align="center">Hi 👋, I'm Hmad Afzal</h1>
 <h3 align="center">A Passionate Frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="sidegif.gif">
