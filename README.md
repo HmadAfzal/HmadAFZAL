@@ -2,15 +2,13 @@
   <img src="banner.gif" alt="MasterCard Banner" width="700px" height= "200px">
 </div>
 
-<h1 align="center">Hi! , I'm Hmad Afzal👦</h1>
-<h3 align="center">A Passionate Frontend developer from Pakistan</h3>
+<h1 align="center">Hmad Afzal🚩</h1>
+<h3 align="center">A Passionate FullStack developer</h3>
 <img align="right" alt="Coding" width="400" src="sidegif.gif">
 
 <p align="left"> <a href="https://twitter.com/wolf_c0de" target="blank"><img src="https://img.shields.io/twitter/follow/wolf_c0de?logo=twitter&style=for-the-badge" alt="wolf_c0de" /></a> </p>
 
-- 👨‍💻 I’m currently learning: **Backend and Frameworks**
-
-- 💬 Ask me about: **Html, CSS, JS**
+- 👨‍💻 I’m currently learning: **ML and NLP**
 
 - 📫 Reach me at: **hmadafzal00@gmail.com**
 
