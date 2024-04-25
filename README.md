@@ -5,8 +5,8 @@
 <h1 align="center">
 Who tf is Hmad?🚩                                                                              
 </h1>
-<P> Hi Hmad here👋🏼. I am a MERN stack developer and a Artificial Intelligence student Islamia University, Bahawalpur. I am passionate about learning and applying new technologies and frameworks to create innovative and user-friendly web applications.
-For the past few months, I have been working as a freelance MERN stack developer, using React.js, Tailwind CSS, and JavaScript for the front-end, and Node.js and Express.js for the back-end. I have successfully completed several projects for various clients, delivering high-quality and responsive websites with features such as CRUD operations, authentication, data visualization, and e-commerce. I am eager to expand my skills and experience by joining a reputable company as an intern, where I can contribute to challenging and meaningful projects that align with my values and goals.</P>
+<P> "👋 Hi there! I'm Hmad, a MERN stack developer and Artificial Intelligence Student. I bring expertise in React.js, Node.js, mongoDB, Expresjs, TailwindCSS, JavaScript and more. Currently exploring Machine Learning and NLP. Let's connect and build something awesome together! 🚀"
+</P>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
