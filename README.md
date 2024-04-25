@@ -2,7 +2,16 @@
   <img src="banner.gif" alt="MasterCard Banner" width="700px" height= "200px">
 </div>
 
-<h1 align="center">Hmad Afzal🚩</h1>
+<h1 align="center">
+|\     /|(       )(  ___  )(  __  \ (  ___  )(  ____ Y ___   )(  ___  )( \      
+| )   ( || () () || (   ) || (  \  )| (   ) || (    \|/   )  || (   ) || (      
+| (___) || || || || (___) || |   ) || (___) || (__       /   )| (___) || |      
+|  ___  || |(_)| ||  ___  || |   | ||  ___  ||  __)     /   / |  ___  || |      
+| (   ) || |   | || (   ) || |   ) || (   ) || (       /   /  | (   ) || |      
+| )   ( || )   ( || )   ( || (__/  )| )   ( || )      /   (_/\| )   ( || (____/\
+|/     \||/     \||/     \|(______/ |/     \||/      (_______/|/     \|(_______/
+                                                                                
+</h1>
 <h3 align="center">A Passionate FullStack developer</h3>
 <img align="right" alt="Coding" width="400" src="sidegif.gif">
 
