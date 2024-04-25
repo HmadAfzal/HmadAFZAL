@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-Who tf is Hmad?🚩                                                                              
+Hmad Afzal?🚩                                                                              
 </h1>
 <P> "👋 Hi there! I'm Hmad, a MERN stack developer and Artificial Intelligence Student. I bring expertise in React.js, Node.js, mongoDB, Expresjs, TailwindCSS, JavaScript and more. Currently exploring Machine Learning and NLP. Let's connect and build something awesome together! 🚀"
 </P>
