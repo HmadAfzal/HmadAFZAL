@@ -3,12 +3,7 @@
 </div>
 
 <h1 align="center">
- _   _                     _ 
-| | | |_ __ ___   __ _  __| |
-| |_| | '_ ` _ \ / _` |/ _` |
-|  _  | | | | | | (_| | (_| |
-|_| |_|_| |_| |_|\__,_|\__,_|
-                                                                                
+Who tf is Hmad?                                                                              
 </h1>
 <h3 align="center">A Passionate FullStack developer</h3>
 <img align="right" alt="Coding" width="400" src="sidegif.gif">
