@@ -3,23 +3,14 @@
 </div>
 
 <h1 align="center">
-Who tf is Hmad?                                                                              
+Who tf is Hmad?🚩                                                                              
 </h1>
-<h3 align="center">A Passionate FullStack developer</h3>
-<img align="right" alt="Coding" width="400" src="sidegif.gif">
-
-<p align="left"> <a href="https://twitter.com/wolf_c0de" target="blank"><img src="https://img.shields.io/twitter/follow/wolf_c0de?logo=twitter&style=for-the-badge" alt="wolf_c0de" /></a> </p>
-
-- 👨‍💻 I’m currently learning: **ML and NLP**
-
-- 📫 Reach me at: **hmadafzal00@gmail.com**
-
-- 😄 Fun fact: **I can write HTML Boiler plate with my eyes closed😄**
+<P> Hi Hmad here👋🏼. I am a MERN stack developer and a Artificial Intelligence student Islamia University, Bahawalpur. I am passionate about learning and applying new technologies and frameworks to create innovative and user-friendly web applications.
+For the past few months, I have been working as a freelance MERN stack developer, using React.js, Tailwind CSS, and JavaScript for the front-end, and Node.js and Express.js for the back-end. I have successfully completed several projects for various clients, delivering high-quality and responsive websites with features such as CRUD operations, authentication, data visualization, and e-commerce. I am eager to expand my skills and experience by joining a reputable company as an intern, where I can contribute to challenging and meaningful projects that align with my values and goals.</P>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wolf_c0de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wolf_c0de" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hmad afzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmad afzal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hmad-afzal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmad afzal" height="30" width="40" /></a>
 <a href="https://instagram.com/llha.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="llha.x" height="30" width="40" /></a>
 </p>
 
