@@ -1,4 +1,4 @@
-![My cool banner](/banner.gif)
+<img align="center" src="/banner.gif" alt="banner" width="full" height="full"/>
 
 
 
