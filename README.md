@@ -1,3 +1,5 @@
+![My cool banner](/banner.gif)
+
 
 
 <h3 align="center">A MERN stack developer and Artificial Intelligence Student.</h3>
