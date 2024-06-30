@@ -1,7 +1,4 @@
-<div style="text-align: center;">
-  <img src="/banner.gif" alt="banner" style="width: 100%; max-width: 100%;"/>
-</div>
-
+![MasterCard Banner](banner.gif)
 
 <h3 align="center">A MERN stack developer and Artificial Intelligence Student.</h3>
 <p>
