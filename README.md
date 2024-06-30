@@ -1,6 +1,5 @@
-
-<div width="full">
-  <img align="center" src="/banner.gif" alt="banner" width="full" height="full"/>
+<div style="text-align: center;">
+  <img src="/banner.gif" alt="banner" style="width: 100%; max-width: 100%;"/>
 </div>
 
 
