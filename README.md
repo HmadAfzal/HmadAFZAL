@@ -3,7 +3,7 @@
 <h3 align="center">A MERN stack developer and Artificial Intelligence Student.</h3>
 <p>
   Hi,
-I'm Hmad Afzal a MERN stack developer and Artificial Intelligence student from Pakistan. For the past few months, I have been working as a freelance MERN stack developer, using React.js, Tailwind CSS, and JavaScript for the front-end, and Node.js and Express.js for the back-end. I have successfully completed several projects for various clients, delivering high-quality and responsive webApps and sites with features such as CRUD operations, authentication, data visualization, and e-commerce. I am eager to expand my skills and experience by joining a reputable company as an intern, where I can contribute to challenging and meaningful projects that align with my values and goals.
+I'm Hmad Afzal a MERN stack developer and Artificial Intelligence student from Pakistan.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmadafzal&label=Profile%20views&color=707070&style=flat" alt="hmadafzal" /> </p>
