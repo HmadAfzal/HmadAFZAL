@@ -2,7 +2,7 @@
   <img src="banner.gif" alt="MasterCard Banner" width="700px" height= "200px">
 </div>
 
-<h3 align="center">A MERN stack developer and Artificial Intelligence Student.</h3>
+<h3 align="center">Hmad Afzal🚩</h3>
 <p>
   Hi,
 I'm Hmad Afzal a MERN stack developer and Artificial Intelligence student from Pakistan.
