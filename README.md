@@ -1,5 +1,7 @@
-<img align="center" src="/banner.gif" alt="banner" width="full" height="full"/>
 
+<div width="full">
+  <img align="center" src="/banner.gif" alt="banner" width="full" height="full"/>
+</div>
 
 
 <h3 align="center">A MERN stack developer and Artificial Intelligence Student.</h3>
