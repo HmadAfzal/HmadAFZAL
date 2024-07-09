@@ -5,12 +5,12 @@
 <h1 align="center">Hmad Afzal🚩</h1>
 <p  align="center">
   Hi,
-I'm Hmad Afzal a MERN stack developer and Artificial Intelligence student from Pakistan.
+I'm Hmad Afzal a Full stack developer and Artificial Intelligence student from Pakistan.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmadafzal&label=Profile%20views&color=707070&style=flat" alt="hmadafzal" /> </p>
 
-- 👨‍💻Portfolio [https://hmad-s-portfolio.vercel.app/](https://hmad-s-portfolio.vercel.app/)
+- 👨‍💻Portfolio [https://hmadafzal.vercel.app/](https://hmadafzal.vercel.app/)
 
 - 📫 Reach me at **hmadafzal00@gmail.com**
 
