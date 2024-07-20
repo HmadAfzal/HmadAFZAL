@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.gif" alt="MasterCard Banner" width="700px" height= "200px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdhYmRteWwxaWx4bWxzemU3bjRuOGxwcWtiZ3JycXZ0cm5wa3FvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNx09ajeVCJ3O/giphy.gif" alt="MasterCard Banner" width="700px" height= "200px">
 </div>
 
 <h1 align="center">Hmad Afzal🚩</h1>
