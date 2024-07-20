@@ -11,9 +11,6 @@ I'm Hmad Afzal a Full stack developer and Artificial Intelligence student from P
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmadafzal&label=Profile%20views&color=707070&style=flat" alt="hmadafzal" /> </p>
 
 
-
-  <img src="sidegif.gif" alt="MasterCard Banner" >
-
 - 👨‍💻Portfolio [https://hmadafzal.vercel.app/](https://hmadafzal.vercel.app/)
 
 - 📫 Reach me at **hmadafzal00@gmail.com**
