@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk2N2Y0NXEwZ3h1NGJoMWcweW9hbml4ZmNwcTY4N3F5YXU0Ynd4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bugwhhJE9WhxkYw/giphy.gif" alt="MasterCard Banner" width="700px" height= "200px">
+  <img src="banner.gif" alt="MasterCard Banner" width="700px" height= "200px">
 </div>
 
 <h1 align="center">Hmad Afzal🚩</h1>
@@ -9,6 +9,10 @@ I'm Hmad Afzal a Full stack developer and Artificial Intelligence student from P
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmadafzal&label=Profile%20views&color=707070&style=flat" alt="hmadafzal" /> </p>
+
+
+
+  <img src="sidegif.gif" alt="MasterCard Banner" >
 
 - 👨‍💻Portfolio [https://hmadafzal.vercel.app/](https://hmadafzal.vercel.app/)
 
