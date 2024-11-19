@@ -6,6 +6,6 @@
 ![](https://komarev.com/ghpvc/?username=hmadafzal)
 
 
-- 👨‍💻Portfolio [https://hmadafzal.vercel.app/](https://hmadafzal.vercel.app/)
+- [👨‍💻Portfolio](https://hmad.codes)
 
 - 📫 Reach me at **hmadafzal00@gmail.com**
