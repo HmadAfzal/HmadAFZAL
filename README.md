@@ -6,6 +6,4 @@
 ![](https://komarev.com/ghpvc/?username=hmadafzal)
 
 
-- [👨‍💻Portfolio](https://hmad.codes)
-
-- 📫 Reach me at **hmadafzal00@gmail.com**
+- 📫 Reach me at **afzalhmad@icloud.com**
