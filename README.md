@@ -19,11 +19,12 @@
 
 | | |
 |---|---|
-| **LLM apps and agents** | LangGraph, LangChain, LlamaIndex, Ollama, Hugging Face, OpenAI and Anthropic SDKs, MCP |
-| **Retrieval** | RAG architecture, FAISS, ChromaDB, sentence-transformers |
-| **Fine-tuning** | LoRA / QLoRA, PyTorch, Transformers |
-| **Backend and infra** | Python, FastAPI, Docker, Nginx, PostgreSQL, Redis, Linux, AWS, pytest |
-| **Frontend** | React, Next.js, TypeScript |
+| **Languages** | Python, TypeScript, JavaScript |
+| **LLM apps and agents** | LangGraph, LangChain, LlamaIndex, CrewAI, AutoGen, Ollama, Hugging Face Transformers, OpenAI SDK, Anthropic SDK, MCP, Prompt Engineering |
+| **Retrieval** | RAG architecture, Vector Search / Semantic Search, FAISS, ChromaDB, sentence-transformers |
+| **Fine-tuning and ML** | LoRA / QLoRA, NLP, PyTorch, TensorFlow, Keras, Scikit-learn |
+| **Backend and infra** | FastAPI, Docker, Nginx, PostgreSQL, Redis, Linux, AWS, CUDA, Git, CI/CD, pytest, n8n |
+| **Frontend** | React, Vite, Next.js, Nest.js, Node.js, Tailwind CSS |
 
 Certified: Supervised Machine Learning (DeepLearning.AI / Stanford) · Hugging Face LLM Course
 
