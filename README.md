@@ -25,10 +25,9 @@
 | **Backend and infra** | FastAPI, Docker, Nginx, PostgreSQL, Redis, Linux, AWS, CUDA, Git, CI/CD, pytest, n8n |
 | **Frontend** | React, Vite, Next.js, Nest.js, Node.js, Tailwind CSS |
 
-Certified: Supervised Machine Learning (DeepLearning.AI / Stanford) · Hugging Face LLM Course
+Certified: Supervised Machine Learning (DeepLearning.AI / Stanford)
 
 ## Contact
 
-📫 [hmadafzal00@gmail.com](mailto:hmadafzal00@gmail.com) 
-**Open to AI/ML engineer roles**
-
+📫 [hmadafzal00@gmail.com](mailto:hmadafzal00@gmail.com)  
+💼 **Open to AI/ML engineer roles**
