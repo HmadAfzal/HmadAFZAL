@@ -10,7 +10,6 @@
 
 - Previously AI Engineer at **Nuexus Technologies** (2024 to 2026): shipped **6+ production AI systems** for clients, including RAG and LLM-powered APIs
 - Published **Gnix** on PyPI (**2k+ downloads**) and built **Privora**, a self-hosted multi-repo RAG platform
-- **Open to AI/ML engineer roles**
 
 ---
 
@@ -31,3 +30,5 @@ Certified: Supervised Machine Learning (DeepLearning.AI / Stanford) · Hugging F
 ## Contact
 
 📫 [hmadafzal00@gmail.com](mailto:hmadafzal00@gmail.com) 
+**Open to AI/ML engineer roles**
+
